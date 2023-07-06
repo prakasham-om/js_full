@@ -31,3 +31,6 @@ _promise.then((item)=>{console.log(item)}).catch((err)=>{
  fetch_data.then((item)=>{
     return item.json()
  }).then((result)=>{console.log(result)}).catch((err)=>console.log(err));
+
+
+ //finally key is used for 

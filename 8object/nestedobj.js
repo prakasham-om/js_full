@@ -9,7 +9,7 @@ let obj={
             pin:572378,
             country:"India"
         }
-    }
+    } 
 }
 //print country name
 console.log(obj.persionalinfo.address.country);

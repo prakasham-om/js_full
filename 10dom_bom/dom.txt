@@ -1,0 +1,14 @@
+dom is stand for document object model :it works to load the html or xml files to 
+webpage as a document
+
+it's hareirchical model (tree model)
+
+top of the model is document type means html or xml
+
+then the branches are head and body sub branches are all property of html
+
+//connection
+
+document.getelementById()
+document.getelementByclassname()
+document.queryselctor()//select all elements
