@@ -1,0 +1,39 @@
+//array is a basically similar type of data type store in sequencially 
+//In JavaScript, array is a single variable that is used to store different elements. 
+/**
+ * var fruit0 = 'Mango';
+var fruit1 = 'Apple';
+var fruit2 = 'Orange';
+Instead of the above, we can use array to structure the data like this:
+
+Var fruits = new Array('Mango','Apple','Orange');
+Declaration of an Array
+There are basically two ways to declare an array.
+
+With the literal notation []
+
+var array = [1, 2, 3]
+With the Array() constructor
+
+var array = new Array(1, 2, 3)
+Basically both the approaches are same but most of the people use literal notation as it’s quicker to type and less code-intensive.
+
+Arrays can be anything — numbers, strings, functions even other arrays and within the arrays you can mix different type of data freely.
+
+var number = [1, 2, 3, 4, 5]
+var strings = ['name', 'place', 'food' ]
+var functions = [ function x(){...}, finction y(){...} ]
+var mix = [ 12, 'niceplace', function xy(){...} ]
+Accessing values of arrays.
+We can access the values of an array by referring to an index number. Index number can be define as the location of an item in array. To get the value we refer to the members of an array using the index number in a square bracket [].
+For example :
+
+var array = [ 'val1', 'val2', 'val3']
+alert(array[0]); // alerts val1.
+note : indexing of arrays starts from 0 in the above example you can see array[0] alerts the first value of the array while array[1] will alert the 2nd value. To check this you can define an array and use console.table to see the indexing of the array.
+ */
+
+
+
+
+

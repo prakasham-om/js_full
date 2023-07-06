@@ -1,0 +1,8 @@
+basically dsa is used to data read and search and sort and delete 
+
+dsa applies on non-premetive dataty(array,list,fils)
+in this dsa we can do
+1.traversing
+2.insert
+3.delete
+4.search5.sort
