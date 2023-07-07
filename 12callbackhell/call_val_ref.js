@@ -1,3 +1,4 @@
+//call by referance always happens with non-pemitive  datatype
 let a=[1,2,3,4,5];
 
 function callref(argu){ 
@@ -16,7 +17,7 @@ console.log(a)
  * true for all values having a primitive data type.
  * 
  */
-
+//call by value always happens with premitive datatype
 let current_value=10;
 function callbyValue(argu){
     chngValue=argu+10;
