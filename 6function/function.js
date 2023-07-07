@@ -1,6 +1,9 @@
 /**
- * A JavaScript function is a block of code designed to perform a particular task.and we can create it once 
-   use multiple times in a program file.
+ imp* A JavaScript function is a block of code designed to perform a particular task.and we can create it once 
+   use multiple times in a program file with different value
+   we passed aruments and parameter in function
+   argument=value passed by function
+   parameter=store that value like a variable *****
   
 Types of functions in javascript?
 1.Named function / function declaration
