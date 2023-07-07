@@ -1,0 +1,8 @@
+heap meamory is used to store intermediate data until the process complete
+ex:
+1+2+3+4+5+6+7+8+9=45
+
+but computer do it 1+2=3
+and 3 store in heap memory then 3+3=6
+then 6 store in heap memory then 6+4=10
+10 store in heap memory it continue this process until the task complete
