@@ -7,6 +7,8 @@
  var-is also known as global variable,hoisting happens in var and
  we can redeclare and re-assign the value in var
  it's oldest variable means before ES6 it's use know it replace by let
+
+ *var is add itself as a window object
  
  */
 
