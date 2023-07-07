@@ -29,10 +29,10 @@ a("salary 8lakh")
 
 
 let funasynch= async function aa (...data){
-   let fetchdata=data;
+    let fetchdata=data;
    let puredata= await (fetchdata);
    setTimeout((puredata)=>{
-    console.log(puredata[1]);
+    console.log(puredata[1]); 
    },3000,puredata)
 
 }
