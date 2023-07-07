@@ -3,6 +3,7 @@
  * also we can say object is the collectio of key and value pair called property
    and a  property can be a function,array,num,string etc
  * 
+   "simply object hold details of one- "
 
    if  property doesn't contain and we try to access that property then it show undefined
  */
@@ -45,7 +46,9 @@ let car={
   price: "2cr"
 }
 
+//for in used to iterate only object
 for(let key in car){
+
     console.log(key+" "+car[key] );  
 }
 
@@ -86,6 +89,6 @@ for(let key in car){
   
 
 
-//in is used for property check of object retutn true/false
+//'in' is used for property check of object retutn true/false
 
 console.log("brand" in car) //true
