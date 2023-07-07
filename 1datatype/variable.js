@@ -23,6 +23,13 @@ console.log(a);//update a value
 }
 console.log(name);  //name is declare in blockscope but we can access it out of block
 
+function vardeclar(){
+    for(var i=0;i<12;i++){
+        console.log(i);//0,1,2,3,4,5,6,7,8,9,10,11
+    }
+    console.log(i);//12
+}
+
 
 //let :-
 //let-is also known as functional scope or block scope,hoistion not happen

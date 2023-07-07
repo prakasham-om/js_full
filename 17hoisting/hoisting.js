@@ -25,4 +25,11 @@
             }
  */
     
-    
+    //for function
+ 
+    super_man()  //here we called a function which is not defined but it give out put
+   function super_man(){
+    console.log("super man have four hand and 10 heads");
+   }
+
+
