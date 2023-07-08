@@ -24,4 +24,4 @@ function callbyValue(argu){
     console.log(chngValue);
 }
 callbyValue(current_value);
-console.log(current_value);
+console.log(current_value);  
