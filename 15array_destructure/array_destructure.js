@@ -16,3 +16,10 @@ console.log(d)//orange
 
 let [...rest]=fruits
 console.log(rest)// print all fruits name
+
+let arr=[[12,22],[222,'rohit'],{hello:'sbsj',aaa:'sggd'}]
+console.log(arr[2]);
+
+let [[x,y],[z,l],{hello,aaa}]=arr;
+
+console.log(hello) //sbsj

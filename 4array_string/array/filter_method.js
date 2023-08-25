@@ -14,7 +14,7 @@ console.log(new_Arr);
 function findDuplicates(arr1) {
    return  arr1.filter((item, index) => arr1.indexOf(item) !== index);
    // console.log(arr1);
-   // return [...new Set(arr11)]
+   // return [...new Set(arr11)] // sort method for removing duplicate
 }
  
 const arr1 = [1,6,2,4,6,7,8,9,8,7,9,5];
